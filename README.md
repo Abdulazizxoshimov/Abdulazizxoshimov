@@ -24,7 +24,7 @@ A project that allows users to upload files, with functionalities for handling d
 - Implementing WebSockets for real-time applications
 
 ## 📫 How to reach me
-- **Email**: [namesurname@gmail.com](mailto:abdulazizxoshimov22@gmail.com)
+- **Email**: [abdulazizxoshimov22@gmail.com](mailto:abdulazizxoshimov22@gmail.com)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/abdulaziz-xoshimov-8b6820307/)
 - **GitHub**: [GitHub](https://github.com/Abdulazizxoshimov)
 - **Telegram**: [@Abuzada0401](https://t.me/Abuzada0401)
